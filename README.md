@@ -1,5 +1,5 @@
 # OVRSGHT
-Drone pProjekt Utilizing Artifical Intelligence and OpenCV
+Drone Projekt Utilizing Artifical Intelligence and OpenCV
 
 Researcher: Wilson Dhalwani & Vladyslav Kharechko <br />
 Advisor: Mr. Joesph Barbetta (BCA) & Mr. Michael Liva (BCA) <br />

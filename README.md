@@ -1,7 +1,7 @@
 # OVRSGHT
 Drone Procekt Utilizing Artificial Intelligence and OpenCV
 
-Researcher: Wilson Dhalwani & Vladyslav Kharechko <br />
+Researcher: Wilson Dhalwani <br />
 Advisor: Mr. Joesph Barbetta (BCA) & Mr. Michael Liva (BCA) <br />
 Context: A fun project inspired by modern-day drone technology <br />
 Project Name: Project OVRSGHT <br />
